@@ -1,0 +1,1 @@
+running `training/random_split/train.py`
