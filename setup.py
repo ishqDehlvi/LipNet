@@ -23,4 +23,5 @@ setup(name='lipnet',
         'nltk',#==3.2.2',
         'sk-video',#==1.1.7',
         'dlib',#==19.4.0'
+        'scikit-image'
     ])
