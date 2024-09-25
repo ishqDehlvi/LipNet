@@ -46,7 +46,7 @@ Here is some ideas on what you can do next:
 * Go crazy and experiment on other dataset! by changing some hyperparameters or modify the model.
 
 ## Dataset
-This model uses GRID corpus (http://spandh.dcs.shef.ac.uk/gridcorpus/)
+This model uses GRID corpus (   )
 
 ## Pre-trained weights
 For those of you who are having difficulties in training the model (or just want to see the end results), you can download and use the weights provided here: https://github.com/rizkiarm/LipNet/tree/master/evaluation/models. 
